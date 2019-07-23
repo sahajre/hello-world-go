@@ -9,6 +9,6 @@ func main() {
 	s[2] = 'l'
 
 	s = append(s, 'l')
-	s = append(s, 'l', 'o', ',', ' ', '世', '界')
+	s = append(s, 'o', ',', ' ', '世', '界')
 	fmt.Println(string(s))
 }
