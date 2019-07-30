@@ -1,4 +1,6 @@
 
+![Hello world Go](https://cdn-images-1.medium.com/max/1600/1*SjYmkKoI8I5aFLPgxrZS2A.png)
+
 
 A "hello, world" program is a program which outputs or displays "hello, world" message. It often illustrates the basic syntax of programming language. Perhaps, this tradition was started from the book The C Programming Language, by Brian W. Kernighan and Dennis M. Ritchie, 1978.
 
