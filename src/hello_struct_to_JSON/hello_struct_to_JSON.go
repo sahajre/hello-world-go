@@ -6,15 +6,16 @@ import (
 )
 
 type greet struct {
-	Output string
+	Output string `json:"output"`
 }
 
 func main() {
-	g := &greet{Output: "Hello, 世界"}
+	g := greet{Output: "Hello, 世界"}
 	b, err := json.Marshal(g)
 	if err != nil {
 		fmt.Println(err)
 		return
 	}
+
 	fmt.Println(string(b))
 }
