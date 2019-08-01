@@ -7,8 +7,8 @@ func main() {
 		'H', 'e', 'l', 'l', 'o', ',', ' ', '世', '界',
 	}
 
-	for _, ch := range s {
-		fmt.Printf("%c", ch)
+	for i := 0; i < len(s); i++ {
+		fmt.Printf("%c", s[i])
 	}
 	fmt.Println()
 }
