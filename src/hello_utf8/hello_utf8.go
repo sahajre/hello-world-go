@@ -8,9 +8,3 @@ func main() {
 
 	fmt.Println(h + ", " + 世界)
 }
-
-/*
-  To run: go run hello_utf8.go
-
-
-*/
