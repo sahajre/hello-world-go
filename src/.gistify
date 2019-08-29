@@ -1,0 +1,289 @@
+{
+    "hello_array/hello_array.go": {
+        "ID": "138decc907a4b5b7369c3f9d109d5ee1",
+        "URL": "https://gist.github.com/138decc907a4b5b7369c3f9d109d5ee1",
+        "Filename": "hello_array/hello_array.go",
+        "Lastmod": 1564668761,
+        "Public": true
+    },
+    "hello_bool/hello_bool.go": {
+        "ID": "fd999aed2505ee346f2c1d84fd9d8035",
+        "URL": "https://gist.github.com/fd999aed2505ee346f2c1d84fd9d8035",
+        "Filename": "hello_bool/hello_bool.go",
+        "Lastmod": 1564668332,
+        "Public": true
+    },
+    "hello_buffered_channel/hello_buffered_channel.go": {
+        "ID": "13b6dcc369b32ced20f7ccd2c3b049f4",
+        "URL": "https://gist.github.com/13b6dcc369b32ced20f7ccd2c3b049f4",
+        "Filename": "hello_buffered_channel/hello_buffered_channel.go",
+        "Lastmod": 1563653952,
+        "Public": true
+    },
+    "hello_channel_unbuffered/hello_channel_unbuffered.go": {
+        "ID": "b8cfab258f29e0972d3de5ed27d5d9d8",
+        "URL": "https://gist.github.com/b8cfab258f29e0972d3de5ed27d5d9d8",
+        "Filename": "hello_channel_unbuffered/hello_channel_unbuffered.go",
+        "Lastmod": 1563542319,
+        "Public": true
+    },
+    "hello_closure/hello_closure.go": {
+        "ID": "71f08b14624daf426c8b740bbae6e430",
+        "URL": "https://gist.github.com/71f08b14624daf426c8b740bbae6e430",
+        "Filename": "hello_closure/hello_closure.go",
+        "Lastmod": 1563651099,
+        "Public": true
+    },
+    "hello_comment/hello_comment.go": {
+        "ID": "b7854cc14ecac5321bdd6f17bce03376",
+        "URL": "https://gist.github.com/b7854cc14ecac5321bdd6f17bce03376",
+        "Filename": "hello_comment/hello_comment.go",
+        "Lastmod": 1563800890,
+        "Public": true
+    },
+    "hello_concurrent/hello_concurrent.go": {
+        "ID": "29bd9ef486da6a79af45c6e8e1532a2f",
+        "URL": "https://gist.github.com/29bd9ef486da6a79af45c6e8e1532a2f",
+        "Filename": "hello_concurrent/hello_concurrent.go",
+        "Lastmod": 1563542319,
+        "Public": true
+    },
+    "hello_const/hello_const.go": {
+        "ID": "f9e55f82bacd5218f86b1c518004e5e7",
+        "URL": "https://gist.github.com/f9e55f82bacd5218f86b1c518004e5e7",
+        "Filename": "hello_const/hello_const.go",
+        "Lastmod": 1563808664,
+        "Public": true
+    },
+    "hello_constant/hello_constant.go": {
+        "ID": "95b58a3df002c5e9312a09c06b343795",
+        "URL": "https://gist.github.com/95b58a3df002c5e9312a09c06b343795",
+        "Filename": "hello_constant/hello_constant.go",
+        "Lastmod": 1563796020,
+        "Public": true
+    },
+    "hello_defer/hello_defer.go": {
+        "ID": "3cb128e82b6d02a662508c47ec2df3ba",
+        "URL": "https://gist.github.com/3cb128e82b6d02a662508c47ec2df3ba",
+        "Filename": "hello_defer/hello_defer.go",
+        "Lastmod": 1563807846,
+        "Public": true
+    },
+    "hello_errors/hello_errors.go": {
+        "ID": "ea9e58ad67a4037329b30c7f58366bb1",
+        "URL": "https://gist.github.com/ea9e58ad67a4037329b30c7f58366bb1",
+        "Filename": "hello_errors/hello_errors.go",
+        "Lastmod": 1563653695,
+        "Public": true
+    },
+    "hello_for/hello_for.go": {
+        "ID": "55287408faf457bdb951b91f75ce8776",
+        "URL": "https://gist.github.com/55287408faf457bdb951b91f75ce8776",
+        "Filename": "hello_for/hello_for.go",
+        "Lastmod": 1563637258,
+        "Public": true
+    },
+    "hello_for_break/hello_for_break.go": {
+        "ID": "d78d76530e0930192fe641b14a76f5a2",
+        "URL": "https://gist.github.com/d78d76530e0930192fe641b14a76f5a2",
+        "Filename": "hello_for_break/hello_for_break.go",
+        "Lastmod": 1563807419,
+        "Public": true
+    },
+    "hello_for_continue/hello_for_continue.go": {
+        "ID": "e11e83d8e11b36e71001c07990e283a0",
+        "URL": "https://gist.github.com/e11e83d8e11b36e71001c07990e283a0",
+        "Filename": "hello_for_continue/hello_for_continue.go",
+        "Lastmod": 1563808907,
+        "Public": true
+    },
+    "hello_func/hello_func.go": {
+        "ID": "0420b1b9c3c65deeebcf29395fc66c63",
+        "URL": "https://gist.github.com/0420b1b9c3c65deeebcf29395fc66c63",
+        "Filename": "hello_func/hello_func.go",
+        "Lastmod": 1563639358,
+        "Public": true
+    },
+    "hello_goroutine/hello_goroutine.go": {
+        "ID": "498f156b7a56885aa04a4d7a0b79b0dc",
+        "URL": "https://gist.github.com/498f156b7a56885aa04a4d7a0b79b0dc",
+        "Filename": "hello_goroutine/hello_goroutine.go",
+        "Lastmod": 1564581553,
+        "Public": true
+    },
+    "hello_if/hello_if.go": {
+        "ID": "fca84ed3b5c6176c81fff2c46502d934",
+        "URL": "https://gist.github.com/fca84ed3b5c6176c81fff2c46502d934",
+        "Filename": "hello_if/hello_if.go",
+        "Lastmod": 1563769346,
+        "Public": true
+    },
+    "hello_init/hello_init.go": {
+        "ID": "6dbcebf6b01fc1236e2f3bd66ebc69ab",
+        "URL": "https://gist.github.com/6dbcebf6b01fc1236e2f3bd66ebc69ab",
+        "Filename": "hello_init/hello_init.go",
+        "Lastmod": 1564556777,
+        "Public": true
+    },
+    "hello_init_order/hello_init.go": {
+        "ID": "190a8ffb0137055eedcb2df1a4d774a2",
+        "URL": "https://gist.github.com/190a8ffb0137055eedcb2df1a4d774a2",
+        "Filename": "hello_init_order/hello_init.go",
+        "Lastmod": 1564577895,
+        "Public": true
+    },
+    "hello_init_order/world_init.go": {
+        "ID": "a8e9285877dc93495569d3a93aec823a",
+        "URL": "https://gist.github.com/a8e9285877dc93495569d3a93aec823a",
+        "Filename": "hello_init_order/world_init.go",
+        "Lastmod": 1564633515,
+        "Public": true
+    },
+    "hello_int/hello_int.go": {
+        "ID": "da661d9f6a2ed1e13c45ff4cac64fa95",
+        "URL": "https://gist.github.com/da661d9f6a2ed1e13c45ff4cac64fa95",
+        "Filename": "hello_int/hello_int.go",
+        "Lastmod": 1564657599,
+        "Public": true
+    },
+    "hello_interface/hello_interface.go": {
+        "ID": "65295b3f24967d26a40726db3aa5a9b6",
+        "URL": "https://gist.github.com/65295b3f24967d26a40726db3aa5a9b6",
+        "Filename": "hello_interface/hello_interface.go",
+        "Lastmod": 1563653379,
+        "Public": true
+    },
+    "hello_map/hello_map.go": {
+        "ID": "6dc9a476c7b27f7b9c6e050e932ef6d7",
+        "URL": "https://gist.github.com/6dc9a476c7b27f7b9c6e050e932ef6d7",
+        "Filename": "hello_map/hello_map.go",
+        "Lastmod": 1563809348,
+        "Public": true
+    },
+    "hello_pointer/hello_pointer.go": {
+        "ID": "72c9c2f525a727b70c3857cd7e2476b5",
+        "URL": "https://gist.github.com/72c9c2f525a727b70c3857cd7e2476b5",
+        "Filename": "hello_pointer/hello_pointer.go",
+        "Lastmod": 1563651351,
+        "Public": true
+    },
+    "hello_range_runes/hello_range_runes.go": {
+        "ID": "08a64bbbd7852a8cbbe21cbb16d53fda",
+        "URL": "https://gist.github.com/08a64bbbd7852a8cbbe21cbb16d53fda",
+        "Filename": "hello_range_runes/hello_range_runes.go",
+        "Lastmod": 1563645746,
+        "Public": true
+    },
+    "hello_return/hello_return.go": {
+        "ID": "e0cd49d2174e827dcc07ef0b400a4432",
+        "URL": "https://gist.github.com/e0cd49d2174e827dcc07ef0b400a4432",
+        "Filename": "hello_return/hello_return.go",
+        "Lastmod": 1563850921,
+        "Public": true
+    },
+    "hello_scanner_reader/hello_scanner_reader.go": {
+        "ID": "27779c60ff1bff753fd755c5bb794d22",
+        "URL": "https://gist.github.com/27779c60ff1bff753fd755c5bb794d22",
+        "Filename": "hello_scanner_reader/hello_scanner_reader.go",
+        "Lastmod": 1567056000,
+        "Public": true
+    },
+    "hello_slice/hello_slice.go": {
+        "ID": "73dd5b6d8eeba790ec44be3d3e0ab8de",
+        "URL": "https://gist.github.com/73dd5b6d8eeba790ec44be3d3e0ab8de",
+        "Filename": "hello_slice/hello_slice.go",
+        "Lastmod": 1564586036,
+        "Public": true
+    },
+    "hello_string/hello_string.go": {
+        "ID": "2ddc590baae4838ddff641330e4057ea",
+        "URL": "https://gist.github.com/2ddc590baae4838ddff641330e4057ea",
+        "Filename": "hello_string/hello_string.go",
+        "Lastmod": 1564657558,
+        "Public": true
+    },
+    "hello_string_replace/hello_string_replace.go": {
+        "ID": "3a3b7ef424899d36c3210630d508e8f5",
+        "URL": "https://gist.github.com/3a3b7ef424899d36c3210630d508e8f5",
+        "Filename": "hello_string_replace/hello_string_replace.go",
+        "Lastmod": 1563543825,
+        "Public": true
+    },
+    "hello_struct/hello_struct.go": {
+        "ID": "e2bc41d2bf3c4ecbfd885a4a0aec450d",
+        "URL": "https://gist.github.com/e2bc41d2bf3c4ecbfd885a4a0aec450d",
+        "Filename": "hello_struct/hello_struct.go",
+        "Lastmod": 1563652167,
+        "Public": true
+    },
+    "hello_struct_embedding/hello_struct_embedding.go": {
+        "ID": "2b4f8b25623c110a5aaf5cce00e73722",
+        "URL": "https://gist.github.com/2b4f8b25623c110a5aaf5cce00e73722",
+        "Filename": "hello_struct_embedding/hello_struct_embedding.go",
+        "Lastmod": 1563769205,
+        "Public": true
+    },
+    "hello_struct_to_JSON/hello_struct_to_JSON.go": {
+        "ID": "77b78e1bffc841ea45df12d36fae800d",
+        "URL": "https://gist.github.com/77b78e1bffc841ea45df12d36fae800d",
+        "Filename": "hello_struct_to_JSON/hello_struct_to_JSON.go",
+        "Lastmod": 1564642450,
+        "Public": true
+    },
+    "hello_switch/hello_switch.go": {
+        "ID": "70ee19676d4321c01c889302a7e789d3",
+        "URL": "https://gist.github.com/70ee19676d4321c01c889302a7e789d3",
+        "Filename": "hello_switch/hello_switch.go",
+        "Lastmod": 1564670860,
+        "Public": true
+    },
+    "hello_switch_default/hello_switch_default.go": {
+        "ID": "129e2781813708038b4fc39b08e15576",
+        "URL": "https://gist.github.com/129e2781813708038b4fc39b08e15576",
+        "Filename": "hello_switch_default/hello_switch_default.go",
+        "Lastmod": 1564675800,
+        "Public": true
+    },
+    "hello_switch_falltrough/hello_switch_fallthrough.go": {
+        "ID": "01df16fd31d9eb6c87438cd11495f680",
+        "URL": "https://gist.github.com/01df16fd31d9eb6c87438cd11495f680",
+        "Filename": "hello_switch_falltrough/hello_switch_fallthrough.go",
+        "Lastmod": 1564718359,
+        "Public": true
+    },
+    "hello_traditional/hello_traditional.go": {
+        "ID": "43983caf2104e699fea450fe3816ad39",
+        "URL": "https://gist.github.com/43983caf2104e699fea450fe3816ad39",
+        "Filename": "hello_traditional/hello_traditional.go",
+        "Lastmod": 1564667202,
+        "Public": true
+    },
+    "hello_utf8/hello_utf8.go": {
+        "ID": "05c1db94ff3cbaf98b522b0cae525b3c",
+        "URL": "https://gist.github.com/05c1db94ff3cbaf98b522b0cae525b3c",
+        "Filename": "hello_utf8/hello_utf8.go",
+        "Lastmod": 1564664902,
+        "Public": true
+    },
+    "hello_value/hello_value.go": {
+        "ID": "79230de09fb9d8cddad5635b9d737dc5",
+        "URL": "https://gist.github.com/79230de09fb9d8cddad5635b9d737dc5",
+        "Filename": "hello_value/hello_value.go",
+        "Lastmod": 1563635846,
+        "Public": true
+    },
+    "hello_veriadic_args/hello_veriadic_args.go": {
+        "ID": "b7884baffc72f66e29d0eef38d2e41a9",
+        "URL": "https://gist.github.com/b7884baffc72f66e29d0eef38d2e41a9",
+        "Filename": "hello_veriadic_args/hello_veriadic_args.go",
+        "Lastmod": 1563889868,
+        "Public": true
+    },
+    "hello_web/hello_web.go": {
+        "ID": "8e05971323f43492dd98f3d0d485bbf0",
+        "URL": "https://gist.github.com/8e05971323f43492dd98f3d0d485bbf0",
+        "Filename": "hello_web/hello_web.go",
+        "Lastmod": 1563889595,
+        "Public": true
+    }
+}
